@@ -44,19 +44,19 @@
  c) \( 6x \)  
  d) \( 5x \)  
 
-## 8. ¿Cuál es el resultado de $ \frac{10x^2}{5x} $ ?  
+## 8. ¿Cuál es el resultado de $\frac{10x^2}{5x}$?  
  a) \( 2x \)  
  b) \( 2x^2 \)  
  c) \( 5x \)  
  d) \( 5x^2 \)  
 
-## 9. Resuelve la ecuación: \( 2x + 5 = 11 \)  
+## 9. Resuelve la ecuación: $2x + 5 = 11$ 
  a) \( x = 6 \)  
  b) \( x = 5 \)  
  c) \( x = 3 \)  
  d) \( x = 2 \)  
 
-## 10. ¿Cuál es el resultado de $ \sqrt{16} + 2^3 $?  
+## 10. ¿Cuál es el resultado de $\sqrt{16} + 2^3$?  
  a) 10  
  b) 12  
  c) 14  

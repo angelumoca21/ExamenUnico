@@ -27,34 +27,34 @@
  d) Ninguna de las anteriores  
 
 ## 5. ¿Cuál es el resultado de sumar $(2x + 3)$ y $(5x - 1)$ ?  
- a) \( 7x + 2 \)  
- b) \( 3x + 2 \)  
- c) \( 7x - 2 \)  
- d) \( 3x - 4 \)  
+ a) $7x + 2$)  
+ b) $3x + 2$  
+ c) $7x - 2$  
+ d) $3x - 4$  
 
 ## 6. ¿Cuál es el resultado de restar $(6a - 4b)$ - $(3a + 2b)$ ?  
- a) \( 3a - 6b \)  
- b) \( 3a + 6b \)  
- c) \( 9a - 2b \)  
- d) \( 9a + 2b \)  
+ a) $3a - 6b$  
+ b) $3a + 6b$  
+ c) $9a - 2b$  
+ d) $9a + 2b$  
 
 ## 7. Calcula: $(2x)(3x)$  
- a) \( 5x^2 \)  
- b) \( 6x^2 \)  
- c) \( 6x \)  
- d) \( 5x \)  
+ a) $5x^2$  
+ b) $6x^2$  
+ c) $6x$ 
+ d) $5x$
 
 ## 8. ¿Cuál es el resultado de $\frac{10x^2}{5x}$?  
- a) \( 2x \)  
- b) \( 2x^2 \)  
- c) \( 5x \)  
- d) \( 5x^2 \)  
+ a) $2x$  
+ b) $2x^2$  
+ c) $5x$  
+ d) $5x^2$  
 
 ## 9. Resuelve la ecuación: $2x + 5 = 11$ 
- a) \( x = 6 \)  
- b) \( x = 5 \)  
- c) \( x = 3 \)  
- d) \( x = 2 \)  
+ a) $x = 6$  
+ b) $x = 5$  
+ c) $x = 3$  
+ d) $x = 2$  
 
 ## 10. ¿Cuál es el resultado de $\sqrt{16} + 2^3$?  
  a) 10  

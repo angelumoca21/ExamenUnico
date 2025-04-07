@@ -27,7 +27,7 @@
  d) Ninguna de las anteriores  
 
 ## 5. ¿Cuál es el resultado de sumar $(2x + 3)$ y $(5x - 1)$ ?  
- a) $7x + 2$)  
+ a) $7x + 2$
  b) $3x + 2$  
  c) $7x - 2$  
  d) $3x - 4$  
@@ -47,7 +47,7 @@
 ## 8. ¿Cuál es el resultado de $\frac{10x^2}{5x}$?  
  a) $2x$  
  b) $2x^2$  
- c) $5x$  
+ c) $5x$
  d) $5x^2$  
 
 ## 9. Resuelve la ecuación: $2x + 5 = 11$ 

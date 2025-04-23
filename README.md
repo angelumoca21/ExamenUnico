@@ -9,6 +9,8 @@
     - [Video: Potencias, raíces, leyes de exponentes y radicales](https://youtu.be/CiswOa1B0Pg)
     - [Video: Jerarquía de operaciones](https://youtu.be/BKkvxx1_Jbk)
 - [Sesión 3 (Presentación)](https://drive.google.com/file/d/1cdzz3KR_f07KbvvxKQBEaFIBL_WlUpxW/view?usp=sharing)
-- [Sesión 4 (Presentación)](https://drive.google.com/file/d/1QtZMhJJAdWte-f_Z_PFViSElP4wMT-tj/view?usp=sharing)
+- [Sesión 4 (Presentación)](https://drive.google.com/file/d/1Xedtmi-palJOF4oTRCE0CBFw-dsniobW/view?usp=sharing)
+- [Sesión 5 (Presentación)](https://drive.google.com/file/d/1B4r66QtqMwsBZAWI_aZKxJJ5-pwLwu5L/view?usp=sharing)
+- [Sesión 6 (Presentación)](https://drive.google.com/file/d/1uUqFUFduogmnkpYeFYY1mJGYSf5KdFnK/view?usp=sharing)
 
 - [Test1](./test1.md) 

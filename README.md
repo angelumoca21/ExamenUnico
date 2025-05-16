@@ -12,5 +12,7 @@
 - [Sesión 4 (Presentación)](https://drive.google.com/file/d/1Xedtmi-palJOF4oTRCE0CBFw-dsniobW/view?usp=sharing)
 - [Sesión 5 (Presentación)](https://drive.google.com/file/d/1B4r66QtqMwsBZAWI_aZKxJJ5-pwLwu5L/view?usp=sharing)
 - [Sesión 6 (Presentación)](https://drive.google.com/file/d/1uUqFUFduogmnkpYeFYY1mJGYSf5KdFnK/view?usp=sharing)
+- [Sesión 7 (Presentación)](https://drive.google.com/file/d/1MWr-Ykfv6_-K6eAbiofRgv1FoWZTj-LN/view?usp=sharing)
+- [Sesión 8 (Presentación)](https://drive.google.com/file/d/14gZ66skjVqShE35j2Koc_Gk9z41e5sa1/view?usp=sharing)
 
 - [Test1](./test1.md) 

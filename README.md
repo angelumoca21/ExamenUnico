@@ -24,5 +24,7 @@
 - [Sesión 1 (Presentación)](https://drive.google.com/file/d/1Fh5pTN4mTR3HoVoxyakgUJkT-FpP_Pwu/view?usp=sharing)
 - [Sesión 2 (Presentación)](https://drive.google.com/file/d/1gggIuls9CyRkL1hZkA6LzDayiyH0DTVS/view?usp=sharing)
 - [Sesión 3 (Presentación)](https://drive.google.com/file/d/1BvkKUYWvN2sSiw_6fubS-_JmSerRTxw4/view?usp=sharing)
+- [Sesión 4 (Presentación)](https://drive.google.com/file/d/1MnNalxOa0So1q5bEo-E198uYn0njENNO/view?usp=sharing)
+- [Sesión 5 (Presentación)](https://drive.google.com/file/d/1EQV3xk3t_-_Va91YdfRXNT9ZFRh2km9f/view?usp=sharing)
 
 ## [Informática](./informatica.md)
